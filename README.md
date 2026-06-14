@@ -10,7 +10,7 @@ Real-time trajectory control and inverse kinematics for UR10 robot in Gazebo sim
 - **Visualization**: Joint state and velocity plots for motion analysis
 
 ## Technologies
-- ROS2, Gazebo, MATLAB Robotics Toolbox
+- ROS, Gazebo, MATLAB Robotics Toolbox
 - UR10 URDF model, Inverse Kinematics Solver
 - TCP communication, Action Client/Server interfaces
 
